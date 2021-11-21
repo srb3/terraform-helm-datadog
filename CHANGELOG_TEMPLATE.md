@@ -10,7 +10,7 @@
 
   To migrate you need to change: X
 
-  ([PR #N](https://github.com/KongHQ-CX/deployment_custom_ami_secrets_manager_integration/pull/N))
+  ([PR #N](https://github.com/srb3/terraform-helm-datadog/pull/N))
 
 🆕 New features:
 
@@ -18,7 +18,7 @@
 
   Description goes here (optional)
 
-  ([PR #N](https://github.com/KongHQ-CX/deployment_custom_ami_secrets_manager_integration/pull/N))
+  ([PR #N](https://github.com/srb3/terraform-helm-datadog/pull/N))
 
 🔧 Fixes:
 
@@ -26,4 +26,4 @@
 
   Description goes here (optional)
 
-  ([PR #N](https://github.com/KongHQ-CX/deployment_custom_ami_secrets_manager_integration/pull/N))
+  ([PR #N](https://github.com/srb3/terraform-helm-datadog/pull/N))
